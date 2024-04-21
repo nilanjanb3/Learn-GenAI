@@ -1,9 +1,9 @@
 # Learn-GenAI
-This is an on going repo to learn GenAI with OpenAI
+This is an ongoing repo to learn GenAI with OpenAI
 
 ### Table of Content
 * 01-Introduction
-    * [01-Why GenAI is Impportant in Today's Context?](https://www.gartner.com/en/topics/generative-ai)
+    * [01-Why GenAI is Important in Today's Context?](https://www.gartner.com/en/topics/generative-ai)
 * 02-GenAI
     * [01-ML Basics](https://www.geeksforgeeks.org/ml-machine-learning/)
     * [02-Deep Learning Basics](https://www.geeksforgeeks.org/introduction-deep-learning/)
