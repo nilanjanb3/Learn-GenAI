@@ -14,11 +14,12 @@ This is an ongoing repo to learn GenAI with OpenAI
     * [07-Foundation Models in GenAI](https://aws.amazon.com/what-is/foundation-models/)
     * [08-What is OpenAI](https://www.coursera.org/articles/what-is-openai)
 * 03-Getting Started with OpenAI
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+    * [01-OpenAI Foundation Models](https://platform.openai.com/docs/models/overview)
+    * [02-OpenAI Quick Start](https://platform.openai.com/docs/overview)
+    * [03-OpenAI API Ref](https://platform.openai.com/docs/api-reference)
+    * [04-OpenAI Libraries](https://platform.openai.com/docs/libraries)
+    * [05-OpenAI Pricing](https://openai.com/pricing)
+* 04-Exploring ChatGPT
     * []()
     * []()
     * []()
