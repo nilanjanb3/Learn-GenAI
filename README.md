@@ -19,8 +19,9 @@ This is an ongoing repo to learn GenAI with OpenAI
     * [03-OpenAI API Ref](https://platform.openai.com/docs/api-reference)
     * [04-OpenAI Libraries](https://platform.openai.com/docs/libraries)
     * [05-OpenAI Pricing](https://openai.com/pricing)
-* 04-Exploring ChatGPT
-    * []()
+* [04-Exploring ChatGPT](https://openai.com/blog/chatgpt)
+* 05-Understanding Prompt Engineering
+    * [0]()
     * []()
     * []()
     * []()
